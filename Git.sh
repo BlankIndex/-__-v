@@ -7,3 +7,4 @@ ping google.com -t -l 0
 
 grep "hi"
 
+|hello|
